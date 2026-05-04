@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 37.3908,
+        "lat": 11.5936
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 25.33,
+        "feels_like": 24.91,
+        "temp_min": 25.33,
+        "temp_max": 25.33,
+        "pressure": 1011,
+        "humidity": 38,
+        "sea_level": 1011,
+        "grnd_level": 826
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.97,
+        "deg": 310,
+        "gust": 2.88
+    },
+    "clouds": {
+        "all": 65
+    },
+    "dt": 1777914685,
+    "sys": {
+        "country": "ET",
+        "sunrise": 1777864214,
+        "sunset": 1777909448
+    },
+    "timezone": 10800,
+    "id": 342884,
+    "name": "Bahir Dar",
+    "cod": 200,
+    "timestamp": "2026-05-04 20:11:26"
+}
