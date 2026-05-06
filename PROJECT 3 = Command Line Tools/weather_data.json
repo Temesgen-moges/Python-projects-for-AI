@@ -1,0 +1,16 @@
+[
+    {
+        "city": "bahir dar",
+        "temperature": 19.3,
+        "humidity": 77,
+        "description": "broken clouds",
+        "timestamp": "2026-05-06 22:29:11"
+    },
+    {
+        "city": "tokyo",
+        "temperature": 17.38,
+        "humidity": 94,
+        "description": "broken clouds",
+        "timestamp": "2026-05-06 22:29:41"
+    }
+]
